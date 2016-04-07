@@ -1,0 +1,4 @@
+C:\Users\USER\proekt\primeri.csharp.terminal\HelloEverybody\HelloEverybody\bin\Release\HelloEverybody.exe
+C:\Users\USER\proekt\primeri.csharp.terminal\HelloEverybody\HelloEverybody\bin\Release\HelloEverybody.pdb
+C:\Users\USER\proekt\primeri.csharp.terminal\HelloEverybody\HelloEverybody\obj\x86\Release\HelloEverybody.exe
+C:\Users\USER\proekt\primeri.csharp.terminal\HelloEverybody\HelloEverybody\obj\x86\Release\HelloEverybody.pdb
